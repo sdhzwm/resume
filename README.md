@@ -23,16 +23,16 @@ github：https://github.com/sdhzwm
 
 ### 技术能力
 
-• 熟练掌握Objective-C及Swift语言编程技术
-• 熟练使用Cocoa Touch开发框架，多线程及数据持久化
-• 熟练使用AutoLayout、sizeClass以及第三方框架Masonry布局及适配
-• 熟悉runtime及runLoop运行机制
-• 熟悉MRC&ARC内存管理机制
-• 熟悉iOS常用消息传递机制(通知、代理、Block、KVO等)
-• 熟悉第三方SDK的使用，百度地图、支付、分享、崩溃统计分析等
-• 熟悉iOS开发常用设计模式：MVC、MVVM等
-• 熟悉使用Charles网络抓包工具
-• 熟悉SVN及git的使用
+- 熟练掌握Objective-C及Swift语言编程技术
+- 熟练使用Cocoa Touch开发框架，多线程及数据持久化
+- 熟练使用AutoLayout、sizeClass以及第三方框架Masonry布局及适配
+- 熟悉runtime及runLoop运行机制
+- 熟悉MRC&ARC内存管理机制
+- 熟悉iOS常用消息传递机制(通知、代理、Block、KVO等)
+- 熟悉第三方SDK的使用，百度地图、支付、分享、崩溃统计分析等
+- 熟悉iOS开发常用设计模式：MVC、MVVM等
+- 熟悉使用Charles网络抓包工具
+- 熟悉SVN及git的使用
 个人作品
 
 ### 网页裁图
