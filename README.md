@@ -16,7 +16,7 @@ Email：sdhzwm@gmail.com
 
 github：[https://github.com/sdhzwm](https://github.com/sdhzwm)
 
-### 自我简介
+### 自我描述
 1. 1年半java开发经验，3年半iOS开发经验
 2. 熟悉iOS应用开发框架，能够完成高质量iOS作品
 3. 喜欢学习新技术，熟悉Swift及RN开发
