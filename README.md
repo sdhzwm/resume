@@ -12,9 +12,9 @@
 
 Email：sdhzwm@gmail.com
 
-博客：http://swifty.wang
+博客：[http://swifty.wang](http://swifty.wang)
 
-github：https://github.com/sdhzwm
+github：[https://github.com/sdhzwm](https://github.com/sdhzwm)
 
 ### 自我简介
 1. 1年半java开发经验，3年半iOS开发经验
@@ -33,23 +33,24 @@ github：https://github.com/sdhzwm
 - 熟悉iOS开发常用设计模式：MVC、MVVM等
 - 熟悉使用Charles网络抓包工具
 - 熟悉SVN及git的使用
-个人作品
 
-### 网页裁图
+### 个人作品
+
+#### 网页裁图
 
 项目地址：[https://itunes.apple.com/cn/app/id1265038075?mt=8](https://itunes.apple.com/cn/app/id1265038075?mt=8)
 
 网页裁图--一个好用的网页截取工具，优雅生成内容全图。
 功能：只要输入网址，一键截取所有内容，生成长图。
 
-### WMViewCapture
+#### WMViewCapture
 
 项目地址：[https://github.com/sdhzwm/WMViewCapture](https://github.com/sdhzwm/WMViewCapture)
 
 
 WMViewCapture目前支持UIWebView和WKWebView，能够截取网页的所有内容。详情请见iOS 网页截图的方法
 
-### QQMusic
+#### QQMusic
 项目地址：[https://github.com/sdhzwm/QQMusic](https://github.com/sdhzwm/QQMusic)
 
 基于swift2.3的QQ音乐的练习项目。
